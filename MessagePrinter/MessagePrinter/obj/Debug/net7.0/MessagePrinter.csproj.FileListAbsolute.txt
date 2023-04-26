@@ -1,0 +1,15 @@
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\obj\Debug\net7.0\MessagePrinter.csproj.AssemblyReference.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\obj\Debug\net7.0\MessagePrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\obj\Debug\net7.0\MessagePrinter.AssemblyInfoInputs.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\obj\Debug\net7.0\MessagePrinter.AssemblyInfo.cs
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\obj\Debug\net7.0\MessagePrinter.csproj.CoreCompileInputs.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\bin\Debug\net7.0\MessagePrinter.exe
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\bin\Debug\net7.0\MessagePrinter.deps.json
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\bin\Debug\net7.0\MessagePrinter.runtimeconfig.json
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\bin\Debug\net7.0\MessagePrinter.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\bin\Debug\net7.0\MessagePrinter.pdb
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\obj\Debug\net7.0\MessagePrinter.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\obj\Debug\net7.0\refint\MessagePrinter.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\obj\Debug\net7.0\MessagePrinter.pdb
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\obj\Debug\net7.0\MessagePrinter.genruntimeconfig.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MessagePrinter\MessagePrinter\obj\Debug\net7.0\ref\MessagePrinter.dll

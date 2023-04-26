@@ -1,0 +1,15 @@
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\bin\Debug\net7.0\StudentsScores.exe
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\bin\Debug\net7.0\StudentsScores.deps.json
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\bin\Debug\net7.0\StudentsScores.runtimeconfig.json
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\bin\Debug\net7.0\StudentsScores.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\bin\Debug\net7.0\StudentsScores.pdb
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\obj\Debug\net7.0\StudentsScores.csproj.AssemblyReference.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\obj\Debug\net7.0\StudentsScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\obj\Debug\net7.0\StudentsScores.AssemblyInfoInputs.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\obj\Debug\net7.0\StudentsScores.AssemblyInfo.cs
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\obj\Debug\net7.0\StudentsScores.csproj.CoreCompileInputs.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\obj\Debug\net7.0\StudentsScores.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\obj\Debug\net7.0\refint\StudentsScores.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\obj\Debug\net7.0\StudentsScores.pdb
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\obj\Debug\net7.0\StudentsScores.genruntimeconfig.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\StudentsScores\StudentsScores\obj\Debug\net7.0\ref\StudentsScores.dll

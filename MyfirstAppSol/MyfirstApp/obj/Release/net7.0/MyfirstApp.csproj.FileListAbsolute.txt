@@ -1,0 +1,15 @@
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\bin\Release\net7.0\MyfirstApp.exe
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\bin\Release\net7.0\MyfirstApp.deps.json
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\bin\Release\net7.0\MyfirstApp.runtimeconfig.json
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\bin\Release\net7.0\MyfirstApp.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\bin\Release\net7.0\MyfirstApp.pdb
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\obj\Release\net7.0\MyfirstApp.csproj.AssemblyReference.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\obj\Release\net7.0\MyfirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\obj\Release\net7.0\MyfirstApp.AssemblyInfoInputs.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\obj\Release\net7.0\MyfirstApp.AssemblyInfo.cs
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\obj\Release\net7.0\MyfirstApp.csproj.CoreCompileInputs.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\obj\Release\net7.0\MyfirstApp.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\obj\Release\net7.0\refint\MyfirstApp.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\obj\Release\net7.0\MyfirstApp.pdb
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\obj\Release\net7.0\MyfirstApp.genruntimeconfig.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MyfirstApp\obj\Release\net7.0\ref\MyfirstApp.dll

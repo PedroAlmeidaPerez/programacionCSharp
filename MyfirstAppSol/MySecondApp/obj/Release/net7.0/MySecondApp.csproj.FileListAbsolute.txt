@@ -1,0 +1,15 @@
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\obj\Release\net7.0\MySecondApp.csproj.AssemblyReference.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\obj\Release\net7.0\MySecondApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\obj\Release\net7.0\MySecondApp.AssemblyInfoInputs.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\obj\Release\net7.0\MySecondApp.AssemblyInfo.cs
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\obj\Release\net7.0\MySecondApp.csproj.CoreCompileInputs.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\bin\Release\net7.0\MySecondApp.exe
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\bin\Release\net7.0\MySecondApp.deps.json
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\bin\Release\net7.0\MySecondApp.runtimeconfig.json
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\bin\Release\net7.0\MySecondApp.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\bin\Release\net7.0\MySecondApp.pdb
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\obj\Release\net7.0\MySecondApp.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\obj\Release\net7.0\refint\MySecondApp.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\obj\Release\net7.0\MySecondApp.pdb
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\obj\Release\net7.0\MySecondApp.genruntimeconfig.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MyfirstAppSol\MySecondApp\obj\Release\net7.0\ref\MySecondApp.dll

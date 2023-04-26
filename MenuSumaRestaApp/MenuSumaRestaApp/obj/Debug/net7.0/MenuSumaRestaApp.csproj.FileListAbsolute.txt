@@ -1,0 +1,15 @@
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\bin\Debug\net7.0\MenuSumaRestaApp.exe
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\bin\Debug\net7.0\MenuSumaRestaApp.deps.json
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\bin\Debug\net7.0\MenuSumaRestaApp.runtimeconfig.json
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\bin\Debug\net7.0\MenuSumaRestaApp.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\bin\Debug\net7.0\MenuSumaRestaApp.pdb
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\obj\Debug\net7.0\MenuSumaRestaApp.csproj.AssemblyReference.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\obj\Debug\net7.0\MenuSumaRestaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\obj\Debug\net7.0\MenuSumaRestaApp.AssemblyInfoInputs.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\obj\Debug\net7.0\MenuSumaRestaApp.AssemblyInfo.cs
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\obj\Debug\net7.0\MenuSumaRestaApp.csproj.CoreCompileInputs.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\obj\Debug\net7.0\MenuSumaRestaApp.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\obj\Debug\net7.0\refint\MenuSumaRestaApp.dll
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\obj\Debug\net7.0\MenuSumaRestaApp.pdb
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\obj\Debug\net7.0\MenuSumaRestaApp.genruntimeconfig.cache
+C:\Users\A681934\Documents\CURSOS\UDEMY\C#\repositorio\MenuSumaRestaApp\MenuSumaRestaApp\obj\Debug\net7.0\ref\MenuSumaRestaApp.dll
